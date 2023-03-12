@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with react-simple-starter-template
+## About
+Pre-configured and ready to use a basic React starter App template. To save time in settings things up for new project. Almost everything needed is already configured. Just use this template and start developing without wasting time in doing same stuffs for every project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can use this starter-kit by clicking ```use this template``` and create a new repository.
+Template repositories let users generate new repositories with the same directory structure and files.
+More informations about templating [here](https://docs.github.com/fr/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+## Ready to use
+ - [react-router-dom]()
+ - [react-icons]()
+ - [eslint]()
+ - [css-variables]()
 
 ## Available Scripts
 
